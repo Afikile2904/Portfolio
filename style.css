@@ -42,7 +42,7 @@ body {
 }
 
 header {
-  background-color: grey;
+  background-color: plum;
   color: #fff;
   padding: 10px 0;
 }
@@ -68,7 +68,7 @@ nav ul li a {
 
 nav ul li a.active {
   background-color: #fff;
-  color: grey;
+  color: plum;
 }
 
 h1 {
@@ -134,24 +134,25 @@ button {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: grey;
+  background-color: plum;
 }
 
 .name {
   font-size: 4em;
-  color: white;
+  color: white;;
   margin-bottom: 10px;
 }
 
 .title {
-  font-size: 1.5em;
+  font-size: 1.8em;
   color: white;
-  margin-top: 10px;
+  margin-top: 20px;
+  letter-spacing: 1px;
 }
 
 footer {
   text-align: center;
-  background-color: grey;
+  background-color: plum;
   color: #fff;
   padding: 10px 0;
 }
@@ -179,7 +180,7 @@ footer {
 }
 
 .skills-category h2 {
-  color: grey;
+  color: plum;;
   margin-bottom: 20px;
   text-align: center;
 }
@@ -200,7 +201,7 @@ footer {
 
 .skills-list i {
   font-size: 1.5em;
-  color: grey;
+  color: plum;
   width: 30px;
   text-align: center;
 }
@@ -226,12 +227,12 @@ footer {
 
 .education-item i {
   font-size: 2.5em;
-  color: grey;
+  color: plum;
   margin-bottom: 15px;
 }
 
 .education-item h3 {
-  color: #333;
+  color: plum;
   margin-bottom: 10px;
 }
 
@@ -257,11 +258,11 @@ footer {
 
 .contact-list i {
   width: 25px;
-  color: grey;
+  color: plum;
 }
 
 .contact-list a {
-  color: grey;
+  color: plum;
   text-decoration: none;
 }
 
